@@ -3,6 +3,7 @@ from .domain import ProductDescription
 from .inventory import Inventory
 from .register import Register
 
+//init
 def seed_inventory(inv: Inventory) -> None:
     inv.add_product(ProductDescription("A100", "Apple", 3.50), 100)
     inv.add_product(ProductDescription("B200", "Bread", 5.00), 50)
