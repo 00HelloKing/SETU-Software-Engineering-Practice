@@ -10,7 +10,7 @@ python -m pos.app
 ```
 
 ## Structure
-- `pos/domain.py` — Domain model (Sale, LineItem, Return, etc.)
+- `pos/domain.py` — Domain model
 - `pos/inventory.py` — Inventory and product catalog
 - `pos/register.py` — Register controller-like coordination
 - `pos/app.py` — CLI demo
