@@ -1,8 +1,8 @@
 # POS System (Python) — Process Sale & Handle Return
 
 This is a small, object-oriented Point-of-Sale (POS) console application that supports:
-- Process Sale (scan items, compute total, pay, print receipt, update inventory)
-- Handle Return (record returned items, compute refund, refund, print return receipt, update inventory)
+- Process Sale
+- Handle Return
 
 ## Run
 ```bash
